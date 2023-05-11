@@ -22,15 +22,13 @@
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
-
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" title="Node.js" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" title="Express.js" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E84D3D" title="NestJS" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Spring%20Boot-282C34?logo=spring" title="Spring Boot" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/C%20Sharp-282C34?logo=CSharp" title="CSharp" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" title="MongoDB" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Postgre%20Sql-282C34?logo=postgresql" title="postgresql" height="25"/> &nbsp;
-
 <img src="https://img.shields.io/badge/Postgre%20Sql-282C34?logo=mysql" title="mysql" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" title="ESLint" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/> &nbsp;
