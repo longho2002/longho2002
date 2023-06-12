@@ -1,6 +1,3 @@
-### `$ whoami`
-
-
 ### Hi there, I'm Cozark ✔️
 
 > [![View count](https://visitcount.itsvg.in/api?id=longho2002&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=longho2002)
