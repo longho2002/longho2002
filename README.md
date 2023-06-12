@@ -15,7 +15,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-[![Facebook](https://www.facebook.com/longho.2002)]
+[[Facebook](https://www.facebook.com/longho.2002)]
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
