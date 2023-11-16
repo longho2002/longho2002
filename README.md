@@ -6,7 +6,7 @@
 <p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF785&width=435&lines=I'm+a+backend+developer"></p>
 
 - 🇻🇳 : I'm from VietNam
-- 📧 : Contact me at [longho250702@gmail.com](https://www.facebook.com/longho.2002)
+- 📧 : Contact me at [longho250702@gmail.com](mailto:longho250702@gmail.com)
 - ❤️ : I'm passionate about:
   - 🪐 Operating Systems (Windows & Linux)
   - 🖥️ Website Developer
